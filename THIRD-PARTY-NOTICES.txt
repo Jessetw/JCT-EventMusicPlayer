@@ -1,0 +1,52 @@
+活動播放音樂控制軟體　第三方元件授權聲明
+Third-Party Notices
+
+本軟體使用下列開放原始碼元件，全部採用 MIT 授權。依授權要求附上各元件的版權聲明與授權全文。
+This software includes the following open-source components, all licensed under the MIT License.
+
+========================================
+NAudio（音訊播放、解碼、壓縮器與限幅器）
+https://github.com/naudio/NAudio
+Copyright (c) Mark Heath & Contributors
+
+NAudio.Vorbis（ogg 解碼）
+https://github.com/naudio/Vorbis
+Copyright (c) Andrew Ward, Mark Heath
+
+NVorbis（ogg 解碼）
+https://github.com/NVorbis/NVorbis
+Copyright (c) 2020 Andrew Ward
+
+CommunityToolkit.Mvvm（介面資料綁定）
+https://github.com/CommunityToolkit/dotnet
+Copyright (c) .NET Foundation and Contributors
+
+.NET 執行環境（.NET Runtime、Windows Presentation Foundation；打包在執行檔內）
+https://github.com/dotnet/runtime
+https://github.com/dotnet/wpf
+Copyright (c) .NET Foundation and Contributors
+
+libebur128（響度量測的算法參考，ITU-R BS.1770 / EBU R128）
+https://github.com/jiixyj/libebur128
+Copyright (c) 2011 Jan Kokemüller
+
+========================================
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
