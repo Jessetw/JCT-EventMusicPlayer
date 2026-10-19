@@ -9,7 +9,7 @@
 
 ## 下載
 
-到 **[Releases](../../releases/latest)** 下載最新版的 `EventPlayer.exe`。
+到 **[Releases](../../releases/latest)** 下載最新版的 `JCT-EventMusicPlayer.exe`。
 
 - **單一執行檔，不需要安裝**：.NET 執行環境已經包在裡面，下載後直接執行
 - 可以放在隨身碟裡帶到現場的電腦使用
